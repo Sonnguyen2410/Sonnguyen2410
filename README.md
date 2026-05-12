@@ -34,7 +34,7 @@ I'm actively seeking an internship opportunity to:
 
 ## 💼 Projects
 
-### 🏫 HCMUT Smart Study Space Booking System
+### 🏫 [HCMUT Smart Study Space Booking System](https://github.com/Sonnguyen2410/HCMUT-Smart-Study-Space-Booking-System)
 **HCMUT Software Engineering Project**
 
 A comprehensive web-based smart study space management and booking system that enables users to:
