@@ -33,30 +33,24 @@ I'm actively seeking an internship opportunity to:
 ---
 
 ## 💼 Projects
+### HCMUT Smart Study Space Booking System(https://github.com/Sonnguyen2410/HCMUT-Smart-Study-Space-Booking-System)
+React.js, Tailwind CSS, REST API, Git | Dec 2025
 
-### 🏫 [HCMUT Smart Study Space Booking System](https://github.com/Sonnguyen2410/HCMUT-Smart-Study-Space-Booking-System)
-**HCMUT Software Engineering Project**
+- **Core Front-end Development:** Developed primary modules including authentication, advanced search filters (by building/capacity), and the core reservation and check-in/out workflows.
+- **System Integration & Optimization:** Seamlessly integrated RESTful APIs with client-side data handling, implemented strict form validation, and delivered a fully responsive layout across all devices.
+- **Component Architecture:** Engineered a library of reusable UI components to accelerate team development speed and ensure strict UI consistency throughout the application.
+- **Agile Collaboration:** Partnered within a 6-member team to design system workflows and manage source control via Git, ensuring on-time delivery and alignment with project specifications.
 
-A comprehensive web-based smart study space management and booking system that enables users to:
-- Browse available time slots with advanced filtering
-- Filter rooms by capacity, building, and time availability
-- Make reservations and manage check-in/check-out workflows
-- Access responsive and user-friendly interfaces
+---
 
-**Technologies Used:**
-- Frontend: React, JavaScript, Tailwind CSS
-- Backend Integration: REST API
-- Version Control: Git
+### Smart Home Nibba – IoT Smart Home System(https://github.com/Sonnguyen2410/smart-home)
+Node.js, Express.js, MQTT (Adafruit IO), MongoDB Atlas, Git | May 2025 – Jun 2025
 
-**My Contributions:**
-- Developed frontend interfaces for authentication, room listing, and room filtering
-- Implemented booking workflow and booking management screens
-- Created check-in/check-out interfaces
-- Integrated UI components with backend REST APIs
-- Ensured smooth user interactions and form validation
-- Implemented responsive layouts for improved usability
-- Built reusable frontend components to support future feature expansion
-- Collaborated with teammates on design and UI consistency
+- **Backend Services:** Developed backend services for collecting and processing real-time sensor data from Adafruit IO MQTT feeds.
+- **APIs & Communication:** Built APIs and MQTT communication flows to support remote monitoring and control of smart home devices.
+- **Data & Alerts:** Implemented data storage, alert generation, and device status synchronization using MongoDB and web-based dashboards.
+- **Team Collaboration:** Collaborated in a 5-member team to integrate IoT hardware, backend services, and frontend applications using Git.
+
 
 ---
 
