@@ -33,7 +33,7 @@ I'm actively seeking an internship opportunity to:
 ---
 
 ## 💼 Projects
-### HCMUT Smart Study Space Booking System(https://github.com/Sonnguyen2410/HCMUT-Smart-Study-Space-Booking-System)
+### [HCMUT Smart Study Space Booking System](https://github.com/Sonnguyen2410/HCMUT-Smart-Study-Space-Booking-System)
 React.js, Tailwind CSS, REST API, Git | Dec 2025
 
 - **Core Front-end Development:** Developed primary modules including authentication, advanced search filters (by building/capacity), and the core reservation and check-in/out workflows.
@@ -43,7 +43,7 @@ React.js, Tailwind CSS, REST API, Git | Dec 2025
 
 ---
 
-### Smart Home Nibba – IoT Smart Home System(https://github.com/Sonnguyen2410/smart-home)
+### [Smart Home Nibba – IoT Smart Home System](https://github.com/Sonnguyen2410/smart-home)
 Node.js, Express.js, MQTT (Adafruit IO), MongoDB Atlas, Git | May 2025 – Jun 2025
 
 - **Backend Services:** Developed backend services for collecting and processing real-time sensor data from Adafruit IO MQTT feeds.
